@@ -31,6 +31,6 @@ Choose Content Type:
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any improvements or bug fixes.
 
 ## Acknowledgments
-Wikipedia API
-Colorama
-Keyboard
+* Wikipedia API
+* Colorama
+* Keyboard
