@@ -79,7 +79,7 @@ def wiki():
             display_interface()
             options()
             
-            selection = get_valid_input("Choose Content Type: ", [FULL_CONTENT, SUMMARY])
+            selection = get_valid_input(Fore.YELLOW + "Choose Content Type: ", [FULL_CONTENT, SUMMARY])
 
             display_interface()
 
