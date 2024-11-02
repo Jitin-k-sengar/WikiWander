@@ -1,4 +1,4 @@
-# Wikipedia Search Application
+# WikiWander
 ![image](https://github.com/user-attachments/assets/ee1a4969-22d8-4154-a861-9206a475038f)
 
 A simple command-line interface (CLI) application that allows users to search for topics on Wikipedia and retrieve either the full content or a summary of the chosen topic. The application is built using Python and utilizes the `wikipedia` library for fetching data.
